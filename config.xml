@@ -12,7 +12,7 @@
   </description>
   
   <author href="https://buid.phonegap.com" email="lupita030700@gmail.com">
-   Moreno Cruz Maria Guadalupe 4F 
+  Claudia Ivette Badillo Vazquez 4E 
   </author>
   
   <!--Personaliza la aplicaion y plataforma -->
@@ -34,6 +34,16 @@
    <!--Third part plugins-->
   
   <!--Colocar icono app-->
+  
+  
+  
+  
+  <!-- Para acceder a paginas en internet-->
+  <allow-intent href="https://*/*"/>
+  <acces origin="https://*/*"/>
+  <allow-intent href="http://*/*"/>
+  <acces origin="http://*/*"/>
+  <plugin name="cordova-plugin-wgitelist" source="npm"/>
   
   <icon src="res/android/mdpi.png"/>
   
