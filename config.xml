@@ -43,7 +43,7 @@
   <acces origin="https://*/*"/>
   <allow-intent href="http://*/*"/>
   <acces origin="http://*/*"/>
-  <plugin name="cordova-plugin-wgitelist" source="npm"/>
+  <plugin name="cordova-plugin-whitelist" source="npm"/>
   
   <icon src="res/android/mdpi.png"/>
   
